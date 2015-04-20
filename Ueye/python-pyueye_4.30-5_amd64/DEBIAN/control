@@ -1,0 +1,10 @@
+Package: python-pyueye
+Source: pyueye
+Version: 4.30-5
+Architecture: amd64
+Maintainer: Ricardo Amezquita Orozco <ramezquitao@cihologramas.com>
+Installed-Size: 1428
+Depends: python (>= 2.6.6-7~), python (<< 2.8), libc6 (>= 2.2.5), ueye-usb-sdk (>= 4.30), ueye-usb-sdk (<< 4.31), ueye-eth-sdk (>= 4.30), ueye-eth-sdk (<< 4.31)
+Section: python
+Priority: optional
+Description: Python binding for ueye camera drivers

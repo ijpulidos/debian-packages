@@ -1,0 +1,9 @@
+Package: ueye-eth-sdk
+Version: 4.30-4
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libqt4-qt3support, libqt4-opengl
+Maintainer: Iván Pulido <ijpulidos@cihologramas.com>
+Description: Ueye ethernet drivers
+ Ueye cameras ethernet drivers 

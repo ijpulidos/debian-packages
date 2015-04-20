@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+chown -R root:root /etc/init.d/ueyeethdrc
+
+sh /usr/share/ueyesdk/ueyesdk-setup-4.30-eth-amd64.gz.run
+/etc/init.d/ueyeethdrc start

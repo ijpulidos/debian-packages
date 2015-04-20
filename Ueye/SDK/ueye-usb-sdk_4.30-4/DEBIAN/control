@@ -1,0 +1,9 @@
+Package: ueye-usb-sdk
+Version: 4.30-4
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libqt4-qt3support, libqt4-opengl
+Maintainer: Ricardo Amézquita <ramezquitao@cihologramas.com>
+Description: Ueye usb drivers
+ Ueye cameras usb drivers 

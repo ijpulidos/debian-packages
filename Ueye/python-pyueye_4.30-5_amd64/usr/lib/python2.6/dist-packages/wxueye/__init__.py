@@ -1,0 +1,1 @@
+../../../../share/pyshared/wxueye/__init__.py

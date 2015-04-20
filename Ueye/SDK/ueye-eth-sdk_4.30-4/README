@@ -1,0 +1,6 @@
+El procedimiento para crear el paquete se tomó de:
+
+http://ubuntuforums.org/showthread.php?t=910717
+
+ademas se crearon los scripts postinst y prerm para que la instalacion y
+la desinstalacion funcione.

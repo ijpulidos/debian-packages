@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyueye
+Version: 4.30
+Summary: Python binding for ueye camera drivers
+Home-page: UNKNOWN
+Author: Ricardo Amezquita Orozco
+Author-email: ramezquitao@cihologramas.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
